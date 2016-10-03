@@ -2,14 +2,7 @@
 CS542 Design Patterns
 Fall 2016
 PROJECT 2 README FILE
-
-Due Date: Friday, September 30, 2016
-Submission Date: Friday, August 30, 2016
-Grace Period Used This Project: 0 Days
-Grace Period Remaining: 0 Days
 Author(s): Atharva S Ghaisas
-e-mail(s): aghaisa1@binghamton.edu
-
 
 PURPOSE:
 Multithreaded Program for assigning the courses to students based on their preferences.
@@ -55,11 +48,3 @@ TO RUN:
 
 ant -buildfile src/build.xml run -Darg0=input.txt -Darg1=output.txt -
 Darg2=3 -Darg3=0
-
-EXTRA CREDIT:
-N/A
-
-BIBLIOGRAPHY:
-
-referred for checking how to write to file using bufferedWriter.
-https://www.mkyong.com/java/how-to-write-to-file-in-java-bufferedwriter-example/
